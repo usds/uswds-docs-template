@@ -1,6 +1,6 @@
 ## About This Project
 
-This is a template website built to provide a baseline for documentation content such as "how-to" guides, technical manuals, and the like. It is built to conform to the [U.S. Web Design Standards](https://standards.usa.gov).
+This is a template website built to provide a baseline for documentation content such as "how-to" guides, technical manuals, and the like. It is built to conform to the [U.S. Web Design System](https://designsystem.digital.gov/).
 
 This project is help teams needing to make a documentation site get up and running faster. It provides a site that looks like this:
 
